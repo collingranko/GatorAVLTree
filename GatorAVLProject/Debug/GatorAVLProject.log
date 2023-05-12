@@ -1,0 +1,4 @@
+﻿  GatorAVLProject.cpp
+C:\Users\Granko\Desktop\Spring 2022\COP3530\GatorAVL Tree\Project1\GatorAVLProject\GatorAVLProject.cpp(635,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Granko\Desktop\Spring 2022\COP3530\GatorAVL Tree\Project1\GatorAVLProject\GatorAVLProject.cpp(714,29): warning C4018: '<': signed/unsigned mismatch
+  GatorAVLProject.vcxproj -> C:\Users\Granko\Desktop\Spring 2022\COP3530\GatorAVL Tree\Project1\GatorAVLProject\Debug\GatorAVLProject.exe
